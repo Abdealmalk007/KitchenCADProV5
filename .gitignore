@@ -1,0 +1,9 @@
+*.exe
+*.msi
+*.zip
+*.db
+*.sqlite
+*.key
+*.pfx
+*.pem
+*.env

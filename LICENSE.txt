@@ -1,0 +1,39 @@
+Kitchen CAD Pro V5 — RC6 BETA Evaluation License
+Copyright © 2026 ProTech. All Rights Reserved.
+
+ENGLISH
+This is a pre-release BETA build supplied for voluntary evaluation.
+It installs side-by-side under the current user's Local AppData folder and
+does not replace earlier Kitchen CAD installations.
+
+The installer has not received final production acceptance, Authenticode
+code signing or Windows in-place upgrade certification. Windows SmartScreen
+may warn about its unsigned publisher. Back up important projects before
+testing. Do not use unfinished CAD/CNC output as manufacturing instructions.
+
+All CNC drafts, cut lists, BOM outputs and estimates require independent
+review and approval by a qualified workshop professional for the actual
+machine, material, controller and postprocessor before fabrication.
+
+Third-party libraries and resources retain their original license terms.
+This pre-release version is supplied as-is without warranty.
+
+العربية
+برنامج Kitchen CAD Pro V5 — ترخيص النسخة التجريبية BETA
+حقوق النشر © 2026 ProTech. جميع الحقوق محفوظة.
+
+هذه نسخة تجريبية قبل الإصدار النهائي، متاحة للاختبار الطوعي فقط.
+تُثبَّت في مجلد مستقل ضمن Local AppData للمستخدم الحالي، ولا تستبدل
+إصدارات Kitchen CAD السابقة المثبتة.
+
+لم تجتز النسخة بعد جميع اختبارات الاعتماد النهائي، ولم تُوقَّع
+بشهادة Authenticode رسمية، ولم يكتمل اختبار الترقية المباشرة.
+قد يظهر تحذير Windows SmartScreen بسبب عدم وجود توقيع رقمي.
+يجب حفظ نسخة احتياطية من المشاريع المهمة قبل تجربة البرنامج.
+
+لا تعتمد على ملفات CNC أو قوائم القطع والمواد أو عروض الأسعار للتصنيع
+دون مراجعة واعتماد مستقل من فني مؤهل وفق الماكينة الفعلية والمواد
+وأداة القطع ووحدة التحكم والمعالج اللاحق.
+
+تظل تراخيص مكتبات وموارد الجهات الأخرى خاضعة لشروط أصحابها.
+تُقدَّم هذه النسخة التجريبية كما هي ودون ضمان.
