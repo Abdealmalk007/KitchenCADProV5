@@ -1,5 +1,21 @@
 # Kitchen CAD Pro V5 - RC6 Beta (نسخة تجريبية)
 
+## جديد — نسخة CPU3D Portable التجريبية (18 نوفمبر 2026)
+
+**[تنزيل Kitchen CAD Pro V5 بنسخة Portable](https://github.com/Abdealmalk007/KitchenCADProV5/releases/download/v5.0.0-beta-cpu3d-20261118/KitchenCADProV5_CPU3D_QA_20261118_PORTABLE.zip)** — Windows 10/11 x64، حجم 102,002,435 بايت.
+
+افتح ملف ZIP واستخرج **جميع الملفات**، ثم شغّل `Launch_KitchenCAD_CPU3D_QA.cmd`. يتضمن الإصدار نموذج مطبخ تجريبيًا. معاينة 3D الحالية ثابتة عبر CPU، ولم يُصلح بعد خلل OpenGL الأصلي.
+
+**هذه نسخة Beta للتجربة فقط، وليست معتمدة للتصنيع أو CNC.** يجب مراجعة المخططات وقوائم القطع والقياسات مهنيًا قبل أي استخدام إنتاجي. احتفظ بنسخة احتياطية من المشاريع. البرنامج غير موقّع رقميًا.
+
+بصمة SHA-256: `95a30e852b9df0709c4730ddc11c3e6bbd31415c2ccf345f5be5a352ad773be6`.
+
+[تفاصيل النسخة](https://github.com/Abdealmalk007/KitchenCADProV5/releases/tag/v5.0.0-beta-cpu3d-20261118) | [ملف SHA256](SHA256SUMS_CPU3D_20261118.txt)
+
+---
+
+### النسخة السابقة RC6 Beta
+
 **الحالة: نسخة تجريبية Beta، وليست إصدارًا نهائيًا معتمدًا.**
 
 ## التنزيل
