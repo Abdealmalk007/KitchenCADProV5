@@ -1,5 +1,20 @@
 # Kitchen CAD Pro V5 - RC6 Beta (نسخة تجريبية)
 
+## جديد: إصلاح القوائم ومساحة الرسم — نسخة Beta (18 نوفمبر 2026)
+
+**[تنزيل Kitchen CAD Pro V5 بعد إصلاح القوائم — Portable ZIP](https://github.com/Abdealmalk007/KitchenCADProV5/releases/download/v5.0.0-beta-ui-panels-20261118/KitchenCADProV5_UI_PANELS_BETA_20261118_PORTABLE.zip)** — الحجم 94,593,206 بايت، Windows 10/11 x64.
+
+عالجنا مشكلة ضيق مساحة الرسم بسبب اللوحات الجانبية: أصبح الكتالوج ومراحل التصميم في تبويبات، ولوحة الخصائص قابلة للتغيير، وتوجد قائمة **اللوحات** لإظهار أو إخفاء كل لوحة. استخدم **F9** لعرض الرسم بملء النافذة، و**Ctrl+Shift+1/2/3** للمراحل والخصائص والكتالوج، وقسم **تفاصيل القالب / Advanced** لإظهار أدوات إدارة الكتالوج.
+
+فك ZIP بالكامل وشغّل **\`Launch_KitchenCAD_UI_PANELS_QA.cmd\`**. لا تحتاج إلى حذف النسخة السابقة.
+
+بصمة SHA-256: \`2a7fc416db1417c0dd42e4e0bb1cf7f0aeb1868bde75320be1e9067b31183791\`. [تفاصيل الإصدار](https://github.com/Abdealmalk007/KitchenCADProV5/releases/tag/v5.0.0-beta-ui-panels-20261118) | [ملف التحقق](SHA256SUMS_UI_PANELS_20261118.txt).
+
+**نسخة تجريبية غير معتمدة للتصنيع:** المعاينة 3D بوضع CPU ثابتة، وCNC ومخرجات تصنيع المطابخ غير معتمدة. البرنامج غير موقّع رقميًا. احفظ نسخًا احتياطية من مشاريعك ولا تعطل حماية Windows.
+
+---
+
+
 ## جديد — نسخة CPU3D Portable التجريبية (18 نوفمبر 2026)
 
 **[تنزيل Kitchen CAD Pro V5 بنسخة Portable](https://github.com/Abdealmalk007/KitchenCADProV5/releases/download/v5.0.0-beta-cpu3d-20261118/KitchenCADProV5_CPU3D_QA_20261118_PORTABLE.zip)** — Windows 10/11 x64، حجم 102,002,435 بايت.

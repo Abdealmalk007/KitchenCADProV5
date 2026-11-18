@@ -1,5 +1,20 @@
 # Kitchen CAD Pro V5 RC6 - Experimental Beta
 
+## New: UI Panels Beta — 18 November 2026
+
+**[Download Kitchen CAD Pro V5 UI Panels Beta (Portable ZIP)](https://github.com/Abdealmalk007/KitchenCADProV5/releases/download/v5.0.0-beta-ui-panels-20261118/KitchenCADProV5_UI_PANELS_BETA_20261118_PORTABLE.zip)** — Windows 10/11 x64, 94,593,206 bytes.
+
+This Beta fixes the feedback that the catalog, side menus and properties obscured the drawing canvas. Workflow and Catalog now share a tabbed side area, and Properties reflows long labels. Use **Panels / اللوحات** to show or hide each pane, **F9** to expand the drawing, **Ctrl+Shift+1/2/3** for the Workflow/Inspector/Catalog, and **Advanced** to edit catalog templates.
+
+Extract all ZIP files and start **\`Launch_KitchenCAD_UI_PANELS_QA.cmd\`**. No installer is required, no old version is replaced.
+
+Checksum SHA-256: \`2a7fc416db1417c0dd42e4e0bb1cf7f0aeb1868bde75320be1e9067b31183791\`. [Full release notes](https://github.com/Abdealmalk007/KitchenCADProV5/releases/tag/v5.0.0-beta-ui-panels-20261118) | [Checksums](SHA256SUMS_UI_PANELS_20261118.txt)
+
+**Voluntary evaluation Beta only.** Unsigned Windows EXE, CPU-only static 3D preview. GPU native crash and CNC/production approvals are still open. Never use unverified BOM/cutting/measurement outputs for fabrication. Back up all projects; do not disable Windows security.
+
+---
+
+
 ## New — CPU3D Portable Beta (18 November 2026)
 
 **[Download Kitchen CAD Pro V5 CPU3D Portable ZIP](https://github.com/Abdealmalk007/KitchenCADProV5/releases/download/v5.0.0-beta-cpu3d-20261118/KitchenCADProV5_CPU3D_QA_20261118_PORTABLE.zip)** — 102,002,435 bytes, Windows 10/11 x64.
